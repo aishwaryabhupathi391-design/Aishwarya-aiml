@@ -101,10 +101,7 @@
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_blob-anchor_ts-ui_packages_code-nav_code-nav_ts-ui_packages_filter--8253c1-5fde020dbad1.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/react-code-view-7e81513b9442.js" defer="defer"></script>
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react.47f1598729334a521d2a.module.css" />
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/react-code-view.833cfc1ade3ba9c7b2e4.module.css" />
-
-
-  <title>employee-salary-prediction/empolyee_salary_prediction (1).py at main · aishwaryabhupathi391-design/employee-salary-prediction</title>
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/react-code-view.833cfc1ade3ba9c7b2e4.module.css"/>
 
 
 
